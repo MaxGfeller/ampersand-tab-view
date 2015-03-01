@@ -1,0 +1,32 @@
+{
+  "name": "ampersand-tab-view",
+  "version": "1.0.0",
+  "description": "Tabbed view for Ampersand.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/test-*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxGfeller/ampersand-tab-view.git"
+  },
+  "keywords": [
+    "ampersand",
+    "ecosystem:ampersand",
+    "tab",
+    "view",
+    "ampersand-view"
+  ],
+  "author": "Max Gfeller <max.gfeller@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxGfeller/ampersand-tab-view/issues"
+  },
+  "homepage": "https://github.com/MaxGfeller/ampersand-tab-view",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "dependencies": {
+    "ampersand-collection": "^1.4.1"
+  }
+}
