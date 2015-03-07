@@ -27,6 +27,11 @@
     "tape": "^3.5.0"
   },
   "dependencies": {
-    "ampersand-collection": "^1.4.1"
+    "ampersand-collection": "^1.4.1",
+    "ampersand-model": "^4.1.0",
+    "ampersand-state": "^4.4.5",
+    "ampersand-view": "^7.2.0",
+    "ampersand-view-switcher": "^2.0.0",
+    "cuid": "^1.2.4"
   }
 }
