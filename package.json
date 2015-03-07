@@ -1,6 +1,6 @@
 {
   "name": "ampersand-tab-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tabbed view for Ampersand.js",
   "main": "index.js",
   "scripts": {
